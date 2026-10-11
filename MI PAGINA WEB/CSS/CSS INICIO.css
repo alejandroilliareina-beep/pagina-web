@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -75px;
+    padding: 22px 40px;
+    gap: 20px;
+    box-shadow: 0 6px 5px
+}
+
+header h1 {
+   color: white;
+}
+
+body {
+    font-family: cursive;
+    background: #f4f6f8;
+    background-image: url("../imagenes/fondo.jpg");
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.Inicio {
+   color: white;
+   text-decoration: none;
+   padding-right: 15px;
+}
+
+.Horario {
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+.Formulario {
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+}

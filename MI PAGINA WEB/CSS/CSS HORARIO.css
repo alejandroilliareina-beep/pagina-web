@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -25px;
+    padding: 22px 40px;
+    gap: 20px;
+    box-shadow: 0 6px 5px
+}
+
+header h1 {
+   color: rgb(253, 251, 251);
+}
+
+.Inicio {
+   color: white;
+   text-decoration: none;
+   padding-right: 15px;
+}
+
+.Horario {
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+.Formulario {
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+body {
+    font-family: cursive;
+    background: #f4f6f8;
+    background-image: url("../imagenes/fondo.jpg");
+    padding: 30px;
+    background-color:grey;
+}
+
+table {
+    width: 95%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    background: white;
+    box-shadow: #333;
+    margin-top: 50px;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 12px;
+}
+
+thead {
+    background-color:#dff6ff;
+}
+
+.Dias {
+    color: rgb(0, 0, 0);
+}
+
+.Horas {
+    background-color: #dff6ff;
+    font-weight: bold;
+}
+
+.Programacion {
+    background-color: #8fd3ff;
+}
+
+.SINF {
+    background-color: #ffd6a5;
+}
+
+.BBDD {
+    background-color: #caffbf;
+}
+
+.Ingles {
+    background-color: #e0bbff;
+}
+
+.proy-intermodular {
+    background-color: #ffadad;
+}
+
+.RECREO {
+    background-color: #f9f871;
+    font-weight: bold;
+    letter-spacing: 0.3em;
+    letter-spacing: 99px;
+}
+
+.digit-aplicada {
+    background-color: #bde0fe;
+}
+
+.sost-aplicada {
+    background-color: #c9e4de;
+}
+
+.entor-desarrollo {
+    background-color: #e9c46a;
+}
+
+.IPE {
+    background-color: #d9ed92;
+}
+
+.LLMM {
+    background-color: #ffc8dd;
+}
+
+
+
+.Asignatura {
+    color:#000000;
+}
+
+.Profesor {
+    color:#000000;
+}
+
+.Fernando {
+    background-color: #8fd3ff;
+}
+
+.MaríaIsabel {
+    background-color: #d9ed92;
+}
+
+.MaríaTeresa {
+    background-color: #e0bbff;
+}
+
+.Jaime {
+    background-color: #ffd6a5;
+}
+
+.Juan {
+    background-color: #2bff00;
+}
+
+.Juann {
+    background-color: #bde0fe;
+}
+
+.Alicia {
+    background-color: #caffbf;
+}
+
+.Juan {
+    background-color: #ffc8dd;
+}
+
+.Francisco {
+    background-color: #c9e4de;
+}
+
+.Javier {
+    background-color: #ffadad;
+}
